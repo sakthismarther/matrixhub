@@ -30,3 +30,9 @@ MatrixHub streamlines the transition from public model hubs to production-grade 
 * **Storage Agnostic**: Compatible with local file systems, NFS, and S3-compatible backends (MinIO, AWS, etc.).
 * **Reliable Replication**: Policy-driven, chunked transfers ensure data consistency even over unstable global networks.
 * **Cloud-Native Design**: Optimized for Kubernetes with official **Helm charts** and horizontal scaling capabilities.
+
+## Community, discussion, contribution, and support
+
+Slack is our primary channel for community discussion, contribution coordination, and support. You can reach the maintainers and community at:
+
+- [Slack](https://cloud-native.slack.com/archives/C0A8UKWR8HG)
